@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🚀 Personal Portfolio Web App
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUx5RI3jY2JPV3HuxRoHNtNmTYhVHkwAspKQ&s"/>
+</p>
+
+# 🚀 My Personal Django Portfolio Web App
 
 This is a **Personal Portfolio Web App** built with [Django](https://www.djangoproject.com/) and deployed on [PythonAnywhere](https://www.pythonanywhere.com/).
 
